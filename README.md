@@ -10,7 +10,7 @@
 Embark on a journey of educational exploration with this small and captivating project on Diffusion models. This Colab Notebook serves as the MVP, enabling the generation of a compelling story using LLM and transforming it into an enchanting movie.
 
 ### Notebook:
-[![Open Notebook](https://colab.research.google.com/drive/1x6Gsa_pgmq_g9GNo1BYI0v8DEX_IuYKm?usp=sharing)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-%E2%9C%92-blue)](https://colab.research.google.com/drive/1x6Gsa_pgmq_g9GNo1BYI0v8DEX_IuYKm?usp=sharing)
 
 ### 🤖 Models:
 **LLMs:**
